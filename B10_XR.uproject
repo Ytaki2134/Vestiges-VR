@@ -3,6 +3,8 @@
 	"EngineAssociation": "5.5",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+	],
 	"Plugins": [
 		{
 			"Name": "OpenXR",
